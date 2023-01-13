@@ -18,3 +18,5 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tumpa-Prizrak&theme=dark&background=000000)](https://git.io/streak-stats)
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Andrew_K9/a0ec1e55-1a18-4614-a38e-38305c4afc03.png" /></a>
