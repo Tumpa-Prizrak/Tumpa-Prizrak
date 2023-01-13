@@ -16,6 +16,8 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Let's celebrate and suck some dick!
 
+https://discord.com/users/529302484901036043
+
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tumpa-Prizrak&theme=dark&background=000000)](https://git.io/streak-stats)
 
