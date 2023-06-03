@@ -17,6 +17,6 @@
 - ⚡ Fun fact: Let's celebrate and suck some dick!
 
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=Tumpa-Prizrak&theme=vue-dark&border_radius=1&locale=ru&date_format=j%20M%5B%20Y%5D&mode=weekly&type=png)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Tumpa-Prizrak&theme=vue-dark&border_radius=1&locale=ru&date_format=j%20M%5B%20Y%5D&mode=daily&type=png)](https://git.io/streak-stats)
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Andrew_K9/a0ec1e55-1a18-4614-a38e-38305c4afc03.png" /></a>
