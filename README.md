@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help with ~~everything~~
 - 💬 Ask me about something. I'm tired(
 - 📫 How to reach me:
-- - Discord:  🍑Tumpa Призрак🍑#2040
+- - Discord:  Tumpa#2040
 - - [Telegram](https://t.me/TumpaPr)
 - - [GitHub](https://github.com/Tumpa-Prizrak)
 - 😄 Pronouns: He/Him
