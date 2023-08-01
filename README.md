@@ -5,14 +5,13 @@
 <img src="https://komarev.com/ghpvc/?username=Tumpa-Prizrak&style=flat-square&color=blue" alt="" align="center"/>
 
 ### :woman_technologist: About Me :
-- 🔭 I’m currently working on `Hifumi`
+- 🔭 I’m currently working on `Description Generator for D&D`
 - 🌱 I’m currently learning `C++` and `Algorithms`
 - 🤔 I’m looking for help with ~~everything~~
 - 💬 Ask me about something. I'm tired(
 - 📫 How to reach me:
-- - Discord:  Tumpa#2040
+- - Discord:  tumpaghost
 - - [Telegram](https://t.me/TumpaPr)
-- - [GitHub](https://github.com/Tumpa-Prizrak)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Let's celebrate and suck some dick!
 
