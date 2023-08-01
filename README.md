@@ -10,8 +10,8 @@
 - 🤔 I’m looking for help with ~~everything~~
 - 💬 Ask me about something. I'm tired(
 - 📫 How to reach me:
-- - Discord:  tumpaghost
-- - [Telegram](https://t.me/TumpaPr)
+  - Discord:  tumpaghost
+  - [Telegram](https://t.me/TumpaPr)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Let's celebrate and suck some dick!
 
