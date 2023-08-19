@@ -5,7 +5,7 @@
 <img src="https://komarev.com/ghpvc/?username=Tumpa-Prizrak&style=flat-square&color=blue" alt="" align="center"/>
 
 ### :woman_technologist: About Me :
-- 🔭 I’m currently working on `Description Generator for D&D`
+- 🔭 I’m currently working on `Tournament-Engine`
 - 🌱 I’m currently learning `C++` and `Algorithms`
 - 🤔 I’m looking for help with ~~everything~~
 - 💬 Ask me about something. I'm tired(
