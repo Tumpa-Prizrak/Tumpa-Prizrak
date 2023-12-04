@@ -11,7 +11,7 @@
 - 💬 Ask me about something. I'm tired(
 - 📫 How to reach me:
   - Discord:  tumpaghost
-  - [Telegram](https://t.me/TumpaPr)
+  - [Telegram](https://t.me/Tumpaaaaa)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Let's celebrate and suck some dick!
 
