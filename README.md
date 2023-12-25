@@ -5,12 +5,12 @@
 <img src="https://komarev.com/ghpvc/?username=Tumpa-Prizrak&style=flat-square&color=blue" alt="" align="center"/>
 
 ### :woman_technologist: About Me :
-- 🔭 I’m currently working on `Tournament-Engine`
-- 🌱 I’m currently learning `C++` and `Algorithms`
-- 🤔 I’m looking for help with ~~everything~~
-- 💬 Ask me about something. I'm tired(
+- 🔭 I’m currently working on [DescriptionGenerator](https://github.com/Tumpa-Prizrak/DescriptionGenerator)
+- 🌱 I’m currently learning python's styling and packaging
+- 🤔 I’m looking for help with burnout.
+- 💬 Ask me about anything you want to know!
 - 📫 How to reach me:
-  - Discord:  tumpaghost
+  - Discord: katoteshikuki_
   - [Telegram](https://t.me/Tumpaaaaa)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Let's celebrate and suck some dick!
